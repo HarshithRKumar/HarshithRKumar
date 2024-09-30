@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year Electrical Engineering student at PES University.
+I'm a final year Electrical Engineering student at PES University.\n
 Currently i'm working a project on early detection of Liver cancer.
 
 
